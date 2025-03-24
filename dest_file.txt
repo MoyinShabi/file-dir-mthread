@@ -1,3 +1,7 @@
-threads
-f__d_thread
+main.c
+source.txt
+program
+header.h
+Makefile
+destination.txt
 dest_file.txt
